@@ -1,32 +1,3 @@
-// console.log ("clase 4") //funciones
-
-// const numeroAleatorio = Math.floor(Math.random() * 100) + 1;
-
-// alert("¡Bienvenido al juego de adivinar el número!");
-// alert("Estoy pensando en un número entre 1 y 100. ¿Podes adivinar cuál es?");
-
-// let intentos = 10;
-
-// while (intentos > 0) {
-//     const num = parseInt(prompt(`Introduce un numero (quedan ${intentos} intentos):`));
-
-//     if (num === numeroAleatorio) {
-//         alert(`¡Felicidades! Adivinaste el número en ${11 - intentos} intentos.`);
-//     break;
-//     } else if (num < numeroAleatorio) {
-//         alert("No es el numero! Intenta con un numero mas grande");
-//     } else {
-//         alert("No es el numero!. Prueba con un numero mas chico.");
-//     }
-
-//     intentos--;
-// }
-
-// if (intentos === 0) {
-//     console.log("¡Ya no te quedan intentos! El número era:", numeroAleatorio);
-// }
-
-
 
 alert("¡Bienvenido a Caffe KOP! \nYo soy Koffi, te ayudaré a armar tu pedido.");
 
